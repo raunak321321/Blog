@@ -1,4 +1,4 @@
-# MERN-Blog
+<!-- # MERN-Blog
 
 ## Table of contents
 
@@ -99,4 +99,4 @@ Now that the database has data and the environmental variables are all set, you 
 [![License](https://img.shields.io/:License-MIT-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - MIT License
-- Copyright 2021 © [Maryam Aljanabi](https://github.com/maryamaljanabi)
+- Copyright 2021 © [Maryam Aljanabi](https://github.com/maryamaljanabi) -->
